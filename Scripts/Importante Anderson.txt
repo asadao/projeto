@@ -1,0 +1,4 @@
+# Copie e cole isso na linha de comando do ubuntu, isso diz em qual região executar
+
+export AWS_REGION='us-east-1'
+export AWS_DEFAULT_REGION='us-east-1'
